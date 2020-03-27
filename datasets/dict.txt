@@ -1,0 +1,29 @@
+3P%:3-Point Field Goal Percentage
+3PT:3-Point Field Goals Made-Attempted Per Game
+AST:Assists Per Game
+AST/TO:Assist To Turnover Ratio
+BLK:Blocks Per Game
+DD2:Double Double
+DQ:Disqualifications
+DR:Defensive Rebounds Per Game
+EJECT:Ejections
+FG:Field Goals Made-Attempted Per Game
+FG%:Field Goal Percentage
+FLAG:Flagrant Fouls
+FT:Free Throws Made-Attempted Per Game
+FT%:Free Throw Percentage
+GP:Games Played
+GS:Games Started
+MIN:Minutes Per Game
+OR:Offensive Rebounds Per Game
+PF:Fouls Per Game
+PTS:Points Per Game
+RAT:Rating
+REB:Rebounds Per Game
+SC-EFF:Scoring Efficiency
+SH-EFF:Shooting Efficiency
+STL:Steals Per Game
+STL/TO:Steal To Turnover Ratio
+TD3:Triple Double
+TECH:Technical Fouls
+TO:Turnovers Per Game
